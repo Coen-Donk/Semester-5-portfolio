@@ -8,6 +8,7 @@ Hieronder is een lijst te zien van de leeruitkomsten. (Deze zijn in het engels b
 
 Voor deze leeruitkomst heb ik continu gecommuniceert met mijn product owner (Verder PO genoemt) en stagebegeleider over verschillende onderwerpen die relevant waren tijdens mijn stage waaronder: Project plan, manier van code schrijven, welke taken prioriteit krijgen.
 Ik heb daarnaast ook producten gemaakt die gebruikt kunnen worden in de test omgeving van QwinSoft, Deze kunnen HEIFAEHAEIOFHAWEFPAJFEOAIJAFIOPEJAFPO gevonden worden. 
+
 Daarnaast heb ik een advies raport opgesteld waarin ik adviezen geef aan het bedrijf over de test omgeving. 
 
 ### Learning outcome 2:
