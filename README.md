@@ -25,6 +25,10 @@ De beschrijving van organisatorische contexten staan beschreven in mijn project 
 ### Learning outcome 4:
 [Investigative Problem Solving] You take a critical look at your project from different perspectives, identify problems, find an effective approach and arrive at appropriate solutions.
 
+Ik heb een advies verslag geschreven voor de test omgeving van QwinSoft. In dit verslag neem ik een critische blik op de test omgeving en wat er aangepast moet worden. 
+
+In mijn eigen project wil ik zo veel mogelijk gebruik maken van de approach om mijn code dynamisch te houden. Op deze manier kaner in de toekomst gemakkelijk gebruik gemaakt worden van mijn code als dat zou moeten. 
+
 ### Learning outcome 5:
 [Personal Leadership] You are entrepreneurial around your projects and personal development, you pay attention to your own learning ability and keep in mind what kind of IT professional and/or what type of positions you aspire to.
 
