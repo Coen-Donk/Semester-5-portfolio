@@ -7,7 +7,7 @@ Hieronder is een lijst te zien van de leeruitkomsten. (Deze zijn in het engels b
 [Professional duties] You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
 
 Voor deze leeruitkomst heb ik continu gecommuniceert met mijn product owner (Verder PO genoemt) en stagebegeleider over verschillende onderwerpen die relevant waren tijdens mijn stage waaronder: Project plan, manier van code schrijven, welke taken prioriteit krijgen.
-Ik heb daarnaast ook producten gemaakt die gebruikt kunnen worden in de test omgeving van QwinSoft, Deze kunnen HEIFAEHAEIOFHAWEFPAJFEOAIJAFIOPEJAFPO gevonden worden. 
+Ik heb daarnaast ook producten gemaakt die gebruikt kunnen worden in de test omgeving van QwinSoft, Deze kunnen [hier](https://github.com/Coen-Donk/Semester-5-portfolio/wiki/Directe-contributies-aan-Qwinsoft) gevonden worden. 
 
 Daarnaast heb ik een advies raport opgesteld waarin ik adviezen geef aan het bedrijf over de test omgeving. 
 
