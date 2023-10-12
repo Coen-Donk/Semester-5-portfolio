@@ -37,4 +37,4 @@ Ik heb hiervoor een [samenvatting gemaakt van reflecties en leermomenten die ik 
 ### Learning outcome 6:
 [Targeted Interaction] You determine which partners play a role in your project, collaborate constructively with them and communicate appropriately to achieve the desired impact.
 
-Dit is al gedeeltelijk benoemt in leeruitkomst 1, maar ik houd nauw met mijn PO en stagebegleider om beide continu up-to-date te houden met de progressie van mijn taken en om eventuele vragen te stellen over onderdelen die ik niet begrijp of afvragingen over de toekomstige impact van de taken die ik krijgt. 
+Dit is al gedeeltelijk benoemt in leeruitkomst 1, maar ik houd nauw contact met mijn PO en stagebegleider om beide continu up-to-date te houden met de progressie van mijn taken en om eventuele vragen te stellen over onderdelen die ik niet begrijp of afvragingen over de toekomstige impact van de taken die ik krijg. 
